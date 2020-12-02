@@ -1,4 +1,8 @@
 ### Hi there 👋
+## I am Prince Singh Tomar
+#### Currently an CSE undergrad at IIIT-Hyderabad 
+![Sparsh's github stats](https://github-readme-stats.vercel.app/api?username=princesinghtomar&count_private=true&show_icons=true&theme=algolia) <br />
+
 
 <!--
 **princesinghtomar/princesinghtomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
