@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 ### Time : 14:00
 ### Topic: First Client Meet
 
->    ### Attendees:
-	>    1) Prince Singh Tomar
-	>	2) Vedansh Mittal
-	>	3) Utkarsh upadhyay
-	>	4) Vishal reddy mandadi
+### Attendees:
+		1) Prince Singh Tomar
+		2) Vedansh Mittal
+		3) Utkarsh upadhyay
+		4) Vishal reddy mandadi
 
 Type | Description | Owner | Deadline
 ---- | ---- | ---- | ----
