@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am Prince Singh Tomar
-#### Currently an CSE undergrad at IIIT-Hyderabad 
+#### Currently a CSE undergrad at IIIT-Hyderabad 
 <!--![Sparsh's github stats](https://github-readme-stats.vercel.app/api?username=princesinghtomar&count_private=true&show_icons=true&theme=algolia) <br />
 -->
 <!--
